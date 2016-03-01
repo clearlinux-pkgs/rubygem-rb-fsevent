@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-01 17:06:03.543904
+# {'>=0.9.3'}
+watchurl=https://rubygems.org/gems/rb-fsevent/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
