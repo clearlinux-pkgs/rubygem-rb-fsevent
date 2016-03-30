@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rb-fsevent
 Version  : 0.9.7
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/rb-fsevent-0.9.7.gem
 Source0  : https://rubygems.org/downloads/rb-fsevent-0.9.7.gem
 Summary  : No detailed summary available
@@ -49,43 +49,29 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/rb-fsevent-0.9.7.gem
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/callback-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/cdesc-FSEvent.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/open_pipe-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/options_string-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/parse_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/paths-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/process_running%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/run-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/shellescape-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/shellescaped_paths-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/stop-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/FSEvent/watch-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rb-fsevent-0.9.7/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/Guardfile
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/bin/fsevent_watch
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/FSEventsFix.c
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/FSEventsFix.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/TSICTString.c
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/TSICTString.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/cli.c
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/cli.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/common.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/compat.c
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/compat.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/defines.h
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/main.c
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/ext/rakefile.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent/fsevent.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rb-fsevent-0.9.7/rb-fsevent.gemspec
-/usr/lib64/ruby/gems/2.2.0/specifications/rb-fsevent-0.9.7.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/rb-fsevent-0.9.7.gem
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/Guardfile
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin/fsevent_watch
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/FSEventsFix.c
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/FSEventsFix.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/TSICTString.c
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/TSICTString.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/cli.c
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/cli.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/common.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/compat.c
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/compat.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/defines.h
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/fsevent_watch/main.c
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext/rakefile.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent/fsevent.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib/rb-fsevent/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/rb-fsevent.gemspec
+/usr/lib64/ruby/gems/2.3.0/specifications/rb-fsevent-0.9.7.gemspec
