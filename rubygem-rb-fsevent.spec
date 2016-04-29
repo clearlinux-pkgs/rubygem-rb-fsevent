@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rb-fsevent
 Version  : 0.9.7
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rb-fsevent-0.9.7.gem
 Source0  : https://rubygems.org/downloads/rb-fsevent-0.9.7.gem
 Summary  : No detailed summary available
